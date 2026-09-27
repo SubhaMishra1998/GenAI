@@ -1,0 +1,13 @@
+Product | Price
+Tv | 20000
+Fridge | 15000
+Bulb | 300
+su | 43
+sd | 2
+efc | 4
+Tv | 3400
+Fan | 42
+Dim | 2
+js | 23
+s | 32
+asx | 3
